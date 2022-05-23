@@ -1,2 +1,2 @@
 # guardian
-robot que dispara bolitas al que se encuentre en su camino
+robot que dispara bolas ao que atopa no camiño
